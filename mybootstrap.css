@@ -1,7 +1,11 @@
 .dark{
-  background-color: #0C0C0C;
+  background-color: #323a40;
 }
 .background-white{
   background-color: inherit;
   border: 0px;
+}
+.gray{
+  color: #a69eb0;
+  font-size: 18px;
 }
